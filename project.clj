@@ -1,4 +1,4 @@
-(defproject siren "0.4.1"
+(defproject storm-lib "1.0"
   :java-source-paths ["src/jvm"]
   :aot :all
   :dependencies [[org.apache.hadoop/hadoop-core "1.0.3"]
